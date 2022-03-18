@@ -1,0 +1,13 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-container .nav-bar {
+    display: flex;
+    list-style-type: none;
+}
+
+.header-container li {
+    margin-right: 20px;
+}
